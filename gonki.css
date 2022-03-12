@@ -1,0 +1,68 @@
+.windows1{
+    height: 10vh;
+    background-color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.windows2{
+    color: aliceblue;
+    font-size: 40px;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 10vh;
+    margin: 0px 20px 0px 20px;
+    transition: 0.9s;
+}
+
+.windows2:hover{
+    color: rgb(31, 219, 18);
+}
+.windows3{
+    height: 90vh;
+    background-image:linear-gradient(45deg,#F38FFA,#539EEE);
+}
+
+.windows95{
+    width: 400px;
+    height: 600px;
+    float: left;
+    list-style: none;
+    margin: 20px 20px 0px 20px;
+    border-radius: 20px ;
+}
+
+.windows_xp{
+    background: url(beam.webp) center / cover no-repeat ;
+}
+.windows_vista{
+    background: url(gran.jpg) center / cover no-repeat ;
+}
+.windows2000{
+    background: url(need.jpg) center / cover no-repeat ;
+}
+.windows7{
+    background: url(forza.jpg) center / cover no-repeat ;
+}
+.windows3_1{
+    margin: auto ;
+    width: fit-content;
+}
+
+.windows98{
+    width: 80%;
+    display: block;
+    margin: 0 auto ;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    background-color: orange;
+    border-radius: 20px;
+    margin-top: 542px;
+}
